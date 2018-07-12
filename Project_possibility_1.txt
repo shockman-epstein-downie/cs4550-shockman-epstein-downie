@@ -1,0 +1,9 @@
+Making plans with a large group can be infuriating. Each member of the group has a different schedule, communication between multiple people is a nightmare, and keeping the details of the plan readily available over text, Facebook Messenger, or most other messaging platforms is nigh-on impossible. From game nights, to movie outings, to neighborhood barbecues, groups need an application that allows for the exchange of schedules and documents, as well as providing an easy way to organize the details of whatever plan is being made.  
+
+Target audiences for this application vary depending on their need for meetings, however, this application would provide the greatest quality of life control to environments for meetings involving many people with different schedules. An example of this would be a planning with friends to go to the beach with several friends with vastly different schedules.
+
+The application would provide a means of streamlining the collective group-scheduling process into an easy and intuitive user interface. This application would make clear what events were scheduled for what times, provide context for those meetings, contain preliminary documents, and be a place for disseminating other data to the meeting-goers.
+ 
+ While there are many RESTful web API's that could be extremely useful to this application, one that has particular merit is Google's Calendar API which enables many of the functions that the native google calendar platform has to offer.
+
+
